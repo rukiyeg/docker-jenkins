@@ -34,7 +34,7 @@ public class AppTest
     {
         App.main(null);
         try {
-            assertEquals("Hello c'est Rku et Loulou" + System.getProperty("line.separator"), outContent.toString());
+            assertEquals("Hello c'est Rku et Loulou les BG de mtrg" + System.getProperty("line.separator"), outContent.toString());
         } catch (AssertionError e) {
             fail("\"message\" is not \"Hello World!\"");
         }

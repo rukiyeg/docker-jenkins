@@ -2,7 +2,7 @@ package com.formation.rkuloulou;
 
 public class App {
 
-	private final String message = "Hello c'est Rku et Loulou";
+	private final String message = "Hello c'est Rku et Loulou les BG de mtrg";
 
 	public App() {
 	}
